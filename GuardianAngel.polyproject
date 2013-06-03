@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<PolycodeProject defaultWidth="640" defaultHeight="480" antiAliasingLevel="0" entryPoint="Scripts/Main.lua" textureFiltering="linear" vSync="false" anisotropyLevel="0" frameRate="60">
+    <backgroundColor red="0.25" green="0.25" blue="0.25" />
+    <polyarray:packedItems>
+        <item type="folder" path="Scripts" />
+        <item type="folder" path="Resources" />
+    </polyarray:packedItems>
+</PolycodeProject>
